@@ -1,4 +1,4 @@
-package es.uah.matcomp.mp.el3.a.ejemplo;
+package B.es.uah.matcomp.mp.el2.b;
 
 public class Persona {
     // Atributos privados de la clase Persona
